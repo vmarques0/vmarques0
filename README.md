@@ -1,5 +1,18 @@
 <h1>Hello Devs!!! 👋</h1>
 
+<code>
+{
+    "dev": {
+        "id":0,
+        "name":"Vinicius Marques",
+        "age":24,
+        "degree":"Studying Science of Computer"
+    },
+    "learning": {
+        "languages": 
+    }
+}
+</code>
 
 ## GitHub Stats
 <div>
