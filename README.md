@@ -15,8 +15,8 @@ Sou Vinicius, tenho 24 anos e estou me formando em Ciência da Computação. Sou
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
 
-## **Learning**
-<code></code>
+<!--## **Learning**
+<code></code>-->
 
 ## **GitHub Stats**
 <div>
