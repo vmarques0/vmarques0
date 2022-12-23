@@ -1,5 +1,6 @@
 # **Hello Devs** 👋
 
+Sou Vinicius, tenho 24 anos e estou me formando em Ciência da Computação. Sou apaixonado por tecnologia e games. Ao longo da minha jornada acadêmica desenvolvi pequenos projetos, como um pequeno sistema de gerenciamento de estoque em Java e um jogo simples em Unity, além de participar e estagiar no time de desenvolvimento de uma brinquedoteca virtual para o Instituto Federal de Muzambinho (https://brinquedoteca.muz.ifsuldeminas.edu.br/) desenvolvido em python com framework Django.
 
 ## **Language and Tools**
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
@@ -13,6 +14,9 @@
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
+
+## **Learning**
+<code></code>
 
 ## **GitHub Stats**
 <div>
