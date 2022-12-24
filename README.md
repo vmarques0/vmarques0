@@ -1,5 +1,10 @@
 <h1 align="left">Vinicius Marques</h1>
 
+<a href="https://www.instagram.com/vmarques0" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/vinicius-marques/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+</br>
+
  **Hello Devs** 👋
 
 <p align="justify">Tenho 24 anos e estou me formando em Ciência da Computação. Sou apaixonado por tecnologia e games. Minhas habilidades e interesses são preferencialmente backend. Ao longo da minha jornada acadêmica desenvolvi pequenos projetos, como um sistema de gerenciamento de estoque em Java e um jogo em Unity, além de participar e estagiar no time de desenvolvimento de uma <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/" target="_blank">brinquedoteca virtual</a> para o Instituto Federal de Muzambinho, desenvolvimento feito com python e Django framework.</p>
@@ -35,9 +40,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmarques0&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmarques0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-</br>
-
-<a href="https://www.instagram.com/vmarques0" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/vinicius-marques/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
