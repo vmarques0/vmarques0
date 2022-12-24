@@ -1,9 +1,7 @@
-<div display="inline-block">
 <h1 align="left">Vinicius Marques</h1>
 
-<a href="https://www.instagram.com/vmarques0" target="_blank"><img float="right" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/vmarques0" target="_blank"><img alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/vinicius-marques/" target="_blank"><img alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-</div>
 
 </br>
 
