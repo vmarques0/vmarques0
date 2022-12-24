@@ -1,4 +1,4 @@
-<div display="inline-block">
+<div display="flex">
 <h1 align="left">Vinicius Marques</h1>
 
 <a href="https://www.instagram.com/vmarques0" target="_blank"><img align="right" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
