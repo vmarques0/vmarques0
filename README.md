@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/vinicius-marques/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 </br>
+</br>
 
 ## **Hello Devs** 👋
 
