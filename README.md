@@ -1,4 +1,4 @@
-<div display="flex">
+<div display=inline-block>
 <h1 align="left">Vinicius Marques</h1>
 
 <div align="right">
