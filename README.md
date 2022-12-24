@@ -1,6 +1,8 @@
-# **Hello Devs** 👋
+<h1 align="left">Vinicius Marques</h1>
 
-<p align="justify">Sou Vinicius, tenho 24 anos e estou me formando em Ciência da Computação. Sou apaixonado por tecnologia e games. Minhas habilidades e interesses são preferencialmente backend. Ao longo da minha jornada acadêmica desenvolvi pequenos projetos, como um sistema de gerenciamento de estoque em Java e um jogo em Unity, além de participar e estagiar no time de desenvolvimento de uma <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/" target="_blank">brinquedoteca virtual</a> para o Instituto Federal de Muzambinho, desenvolvimento feito com python e Django framework.</p>
+ **Hello Devs** 👋
+
+<p align="justify">Tenho 24 anos e estou me formando em Ciência da Computação. Sou apaixonado por tecnologia e games. Minhas habilidades e interesses são preferencialmente backend. Ao longo da minha jornada acadêmica desenvolvi pequenos projetos, como um sistema de gerenciamento de estoque em Java e um jogo em Unity, além de participar e estagiar no time de desenvolvimento de uma <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/" target="_blank">brinquedoteca virtual</a> para o Instituto Federal de Muzambinho, desenvolvimento feito com python e Django framework.</p>
 
 </br>
 
@@ -32,5 +34,13 @@
 <a href="https://github.com/vmarques0">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmarques0&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmarques0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+</br>
+
+## Contatos:
+<div>
+<a href="https://instagram.com/vmarques0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vinicius-marques-220051186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
