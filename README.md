@@ -1,9 +1,10 @@
-<div display=inline-block>
 <h1 align="left">Vinicius Marques</h1>
+
+</br>
 
 <a href="https://www.instagram.com/vmarques0" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/vinicius-marques/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-</div>
+
 </br>
 
 ## **Hello Devs** 👋
