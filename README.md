@@ -1,8 +1,8 @@
 # **Hello Devs** 👋
 
-Sou Vinicius, tenho 24 anos e estou me formando em Ciência da Computação. Sou apaixonado por tecnologia e games. Minhas habilidades e interesses são preferencialmente backend. Ao longo da minha jornada acadêmica desenvolvi pequenos projetos, como um sistema de gerenciamento de estoque em Java e um jogo em Unity, além de participar e estagiar no time de desenvolvimento de uma <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/" target="_blank">brinquedoteca virtual</a> para o Instituto Federal de Muzambinho, desenvolvimento feito com python e Django framework.
+<p align="justify">Sou Vinicius, tenho 24 anos e estou me formando em Ciência da Computação. Sou apaixonado por tecnologia e games. Minhas habilidades e interesses são preferencialmente backend. Ao longo da minha jornada acadêmica desenvolvi pequenos projetos, como um sistema de gerenciamento de estoque em Java e um jogo em Unity, além de participar e estagiar no time de desenvolvimento de uma <a href="https://brinquedoteca.muz.ifsuldeminas.edu.br/" target="_blank">brinquedoteca virtual</a> para o Instituto Federal de Muzambinho, desenvolvimento feito com python e Django framework.</p>
 
-## **Language and Tools**
+## **🖥️ Languages and Tools**
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
@@ -15,7 +15,7 @@ Sou Vinicius, tenho 24 anos e estou me formando em Ciência da Computação. Sou
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
 
-## **Learning**
+## **📚 Learnig**
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
